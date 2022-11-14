@@ -1,0 +1,53 @@
+
+table {
+  margin-right: auto;
+  margin-left: auto;
+  width: 60%;
+  box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+  border-spacing: 0px;
+  border-radius: 10px;
+  backdrop-filter: blur(14px);
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 30px;
+  text-align: center;
+}
+
+th{
+  background-color:green;
+  color: #ffffff;
+  padding: 15px;
+  margin: 4px;
+  border: #ffffff 1px solid;
+  
+}
+
+td{
+  padding: 15px;
+  
+  
+}
+td button{
+  text-decoration: none;
+  background-color: #6D8B74;
+  padding: 8px;
+  margin-left: 4px;
+  border-radius: 6px;
+  font-family: 'Diavlo Bold', sans-serif;
+  font-weight: bolder;
+  border: #ffffff 2px solid;
+  color: white;
+  box-shadow: 0 2px #999;
+  /* margin-left: 2px; */
+}
+/* .addtask{
+  background-color: #6D8B74;
+  color: whitesmoke;
+  padding: 5px 10px;
+  margin-inline-start: 500px;
+  margin-bottom: 5px;
+
+} */
+
+td button:hover{
+  background-color: rgb(230, 79, 79);
+}

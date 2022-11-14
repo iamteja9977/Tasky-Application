@@ -1,0 +1,25 @@
+.edittask{
+    border:2px solid red;
+    padding:20px;
+    background-color: rgb(180, 185, 185);
+    text-align: center;
+margin:100px;
+border-radius: 20px;
+}
+#taskname{
+width: 450px;
+}
+#isCompleted{
+width: 490px;
+
+}
+#deadline{
+    width: 18px;
+    margin-left: 20px;
+    background-color: green;;
+}
+#submitbt{
+    width:250px;
+    align-items: center;
+    margin-left: 0;
+}
